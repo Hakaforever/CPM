@@ -1,0 +1,11 @@
+D:\C#\APS v 1.00\CPM\CPT\bin\Debug\CPM.exe.config
+D:\C#\APS v 1.00\CPM\CPT\bin\Debug\CPM.exe
+D:\C#\APS v 1.00\CPM\CPT\bin\Debug\CPM.pdb
+D:\C#\APS v 1.00\CPM\CPT\bin\Debug\itextsharp.dll
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPM.csprojResolveAssemblyReference.cache
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPT.CPM.resources
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPT.Settings.resources
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPT.Properties.Resources.resources
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPM.csproj.GenerateResource.Cache
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPM.exe
+D:\C#\APS v 1.00\CPM\CPT\obj\Debug\CPM.pdb
